@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at **Ask Seo** as a **Senior Flutter Developer**  
 - 🌱 I’m learning backend technologies like **FastAPI**  
 - 📱 I specialize in building **cross-platform apps (Android, iOS, Web)**  
-- 💬 Ask me about **Flutter, Firebase, State Management, REST APIs**  
+- 💬 Ask me about **Flutter, Firebase, State Management, REST APIs, performance, clean architecture, and maintainability**  
 - 📫 Reach me at **umarflutter0@gmail.com**
 
 ---
