@@ -39,7 +39,7 @@ A cross-platform audio enhancer with equalizer, bass boost, and sound customizat
 
 ---
 
-### 🇩🇪 Apka German School – Learn German Easily  
+### Apka German School – Learn German Easily  
 An educational app to learn German with lessons, quizzes, and progress tracking.  
 [![Play Store](https://img.shields.io/badge/View%20on%20Play%20Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.apkagermanschool.apka_german_school)  
 
