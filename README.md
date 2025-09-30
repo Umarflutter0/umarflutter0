@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
+<h3 align="center">A passionate Mobile App Developer from Pakistan</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working at **Ask Seo** as a Flutter Developer  
+- 🔭 I’m currently working at **Ask Seo** as a **Senior Flutter Developer""  
 - 🌱 I’m learning backend technologies like **FastAPI**  
 - 📱 I specialize in building **cross-platform apps (Android, iOS, Web)**  
 - 💬 Ask me about **Flutter, Firebase, State Management, REST APIs**  
