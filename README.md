@@ -25,6 +25,25 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ---
+## 🚀 Featured Projects  
+
+### 📖 Story Generator – AI Adventure Stories  
+AI-powered app that generates interactive stories and adventures.  
+[![Play Store](https://img.shields.io/badge/View%20on%20Play%20Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.storygenerator.stories.adventure)  
+
+---
+
+### 🎵 Audio Enhancer – Equalizer & Bass Boost  
+A cross-platform audio enhancer with equalizer, bass boost, and sound customization.  
+[![Play Store](https://img.shields.io/badge/View%20on%20Play%20Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.equalizer.audio.enhancer)  
+
+---
+
+### 🇩🇪 Apka German School – Learn German Easily  
+An educational app to learn German with lessons, quizzes, and progress tracking.  
+[![Play Store](https://img.shields.io/badge/View%20on%20Play%20Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.apkagermanschool.apka_german_school)  
+
+---
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarflutter0&show_icons=true&count_private=true&hide=prs&theme=radical)
