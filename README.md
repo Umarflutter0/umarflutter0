@@ -49,7 +49,6 @@ An educational app to learn German with lessons, quizzes, and progress tracking.
 ### 📊 GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umarflutter0&theme=tokyo-night)
-![GitHub Metrics](https://metrics.lecoq.io/umarflutter0?template=classic&isocalendar=1&isocalendar.duration=year)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarflutter0&show_icons=true&count_private=true&hide=prs&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarflutter0&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarflutter0&layout=compact&theme=tokyonight)
