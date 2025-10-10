@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">A creative and detail-oriented Mobile App Developer who loves turning ideas into smooth, functional, and visually appealing mobile experiences.</h3>
 
 ---
 
