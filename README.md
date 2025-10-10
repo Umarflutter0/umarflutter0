@@ -53,7 +53,12 @@ An educational app to learn German with lessons, quizzes, and progress tracking.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarflutter0&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarflutter0&layout=compact&theme=tokyonight)
 
+---
 
+## Connect with me  
+<a href="https://www.linkedin.com/in/umarwaqar0/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 ---
 
 ### 🏆 GitHub Trophies
