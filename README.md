@@ -55,10 +55,10 @@ An educational app to learn German with lessons, quizzes, and progress tracking.
 
 ---
 
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=umarflutter0&theme=onedark&row=1&column=6)
+
 ## Connect with me  
 <a href="https://www.linkedin.com/in/umarwaqar0/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=umarflutter0&theme=onedark&row=1&column=6)
